@@ -1,0 +1,26 @@
+{
+  "name": "proeyecto_node_invitacion",
+  "version": "1.0.0",
+  "description": "Invitación para eventos",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/webMelinda/invitacion.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/webMelinda/invitacion/issues"
+  },
+  "homepage": "https://github.com/webMelinda/invitacion#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  }
+}
